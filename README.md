@@ -1,16 +1,25 @@
-## Hi there 👋
+🧠 User: RyanRustill
 
-<!--
-**RyanRustill/RyanRustill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧩 Status: Learning everything
 
-Here are some ideas to get you started:
+📟 Curious Developer | 💻 Math Explorer | 🧬 Systems Tinkerer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal: Build a full creative + technical portfolio one commit at a time  
+
+🔧  Current Project: Portfolio CMS | Admin System | Supabase
+
+🎮  Side Quests: Jupyter Notebooks, Terminal ASCII Experiments
+
+🗃️  Hardware: DigitalOcean Droplet, Ubuntu 24.10, Terminal-native
+
+🗂️ [snippets repo »](https://github.com/RyanRustill/snippets)
+
+------------------------------------------------------------
+
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyanRustill&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
+
+------------------------------------------------------------
+
+```
+> This is just the beginning.
+```
