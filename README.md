@@ -1,25 +1,45 @@
-🧠 User: RyanRustill
 
-🧩 Status: Learning everything
+### Ryan Rustill || Computer Science || Engineering Programmable Systems
 
-📟 Curious Developer | 💻 Math Explorer | 🧬 Systems Tinkerer  
+---
+<img align="right" alt="Ryan Rustill" min-width="300px" max-width="200px" width="340px" src="https://pbs.twimg.com/media/GtalxnqXAAAM-7d?format=jpg&name=medium" />
 
-🎯 Goal: Build a full creative + technical portfolio one commit at a time  
+<!-- About me -->
 
-🔧  Current Project: Portfolio CMS | Admin System | Supabase
+- 🧠 User: RyanRustill
+- 🧩 Status: Learning everything
+- 📟 Curious Developer | 💻 Math Explorer | 🧬 Systems Tinkerer  
+- 🎯 Goal: Build a full creative + technical portfolio one commit at a time  
 
-🎮  Side Quests: Jupyter Notebooks, Terminal ASCII Experiments
+- 🔧  Current Project: Portfolio CMS | Admin System | Supabase
+- 🎮  Side Quests: Jupyter Notebooks, Terminal ASCII Experiments
+- 🗃️  Hardware: DigitalOcean Droplet, Ubuntu 24.10, Terminal-native
 
-🗃️  Hardware: DigitalOcean Droplet, Ubuntu 24.10, Terminal-native
+- 🗂️ [snippets repo »](https://github.com/RyanRustill/snippets)
+---
 
-🗂️ [snippets repo »](https://github.com/RyanRustill/snippets)
 
-------------------------------------------------------------
+<!-- Tech Stack -->
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyanRustill&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
+## 💻 Tech Stack
 
-------------------------------------------------------------
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,ts,js,react,tailwind,css,html,postgres,ubuntu" />
+  </a>
+</p>
 
-```
-> This is just the beginning.
-```
+<!-- GitHub Stats -->
+<h2 align="left">
+📈 GitHub Stats
+</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RyanRustill&theme=taiga" alt="GitHub Streak" />
+
+---
+
+<p align="center">
+  <a href="https://www.RyanRustill.com">RyanRustill.com</a> -
+  <a href="https://www.x.com/RyanRustill">@RyanRustill</a> - 
+</p>
