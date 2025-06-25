@@ -13,7 +13,7 @@
 
 - 🔧  Current Project: Portfolio CMS | Admin System | Supabase
 - 🎮  Side Quests: Jupyter Notebooks, Terminal ASCII Experiments
-- 🗃️  Hardware: DigitalOcean Droplet, Ubuntu 24.10, Terminal-native
+- 🗃️  Hardware: Hetzner shell / 4 vCPU / 16gb RAM, Ubuntu, Terminal-native
 
 - 🗂️ [snippets repo »](https://github.com/RyanRustill/snippets)
 ---
