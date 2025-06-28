@@ -12,7 +12,7 @@
 - 🎯 Goal: Build a full creative + technical portfolio one commit at a time  
 
 - 🔧  Current Project: Daily code-snippets focused on learning Python/C/JavaScript.
-- 🎮  Side Quests: Jupyter Notebooks, Golang experimentation
+- 🎮  Side Quests: Jupyter Notebooks & Golang experimentation
 - 🗃️  Hardware: Hetzner shell / 4 vCPU / 16gb RAM, Ubuntu, Terminal-native
 
 - 🗂️ [snippets repo »](https://github.com/RyanRustill/snippets)
