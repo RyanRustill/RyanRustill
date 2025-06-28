@@ -11,8 +11,8 @@
 - 📟 Curious Developer | 💻 Math Explorer | 🧬 Systems Tinkerer  
 - 🎯 Goal: Build a full creative + technical portfolio one commit at a time  
 
-- 🔧  Current Project: Portfolio CMS | Admin System | Supabase
-- 🎮  Side Quests: Jupyter Notebooks, Terminal ASCII Experiments
+- 🔧  Current Project: Daily code-snippets focused on learning Python/C/JavaScript.
+- 🎮  Side Quests: Jupyter Notebooks, Golang experimentation
 - 🗃️  Hardware: Hetzner shell / 4 vCPU / 16gb RAM, Ubuntu, Terminal-native
 
 - 🗂️ [snippets repo »](https://github.com/RyanRustill/snippets)
